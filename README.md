@@ -138,7 +138,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>0.0</code></td>
 		</tr>
-
 		<tr id="tilt">
 			<td class="option"><code>tilt</code></td>
 			<td>
@@ -150,7 +149,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>0.0</code></td>
 		</tr>
-
 		<tr id="minZ">
 			<td class="option"><code>minZ</code></td>
 			<td>
@@ -162,7 +160,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>100</code></td>
 		</tr>
-
 		<tr id="maxZ">
 			<td class="option"><code>maxZ</code></td>
 			<td>
@@ -174,7 +171,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>280</code></td>
 		</tr>
-
 		<tr id="minOpacity">
 			<td class="option"><code>minOpacity</code></td>
 			<td>
@@ -186,7 +182,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>0.4</code></td>
 		</tr>
-
 		<tr id="maxOpacity">
 			<td class="option"><code>maxOpacity</code></td>
 			<td>
@@ -198,7 +193,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>1.0</code></td>
 		</tr>
-
 		<tr id="minScale">
 			<td class="option"><code>minScale</code></td>
 			<td>
@@ -211,7 +205,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>0.4</code></td>
 		</tr>
-	
 		<tr id="maxScale">
 			<td class="option"><code>maxScale</code></td>
 			<td>
@@ -224,7 +217,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>1.0</code></td>
 		</tr>
-	
 		<tr id="duration">
 			<td class="option"><code>duration</code></td>
 			<td>
@@ -236,8 +228,7 @@ Roundabout comes with many settable configuration options that let you customize
 			</td>
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>600</code></td>
-		</tr>
-	
+			</tr>
 		<tr id="btnNext">
 			<td class="option"><code>btnNext</code></td>
 			<td>
@@ -248,7 +239,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>null</code></td>
 		</tr>
-	
 		<tr id="btnNextCallback">
 			<td class="option"><code>btnNextCallback</code></td>
 			<td>
@@ -260,7 +250,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">function</td>
 			<td class="default-value"><code>function() {}</code></td>
 		</tr>
-	
 		<tr id="btnPrev">
 			<td class="option"><code>btnPrev</code></td>
 			<td>
@@ -271,7 +260,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>null</code></td>
 		</tr>
-	
 		<tr id="btnPrevCallback">
 			<td class="option"><code>btnPrevCallback</code></td>
 			<td>
@@ -283,7 +271,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">function</td>
 			<td class="default-value"><code>function() {}</code></td>
 		</tr>
-	
 		<tr id="btnToggleAutoplay">
 			<td class="option"><code>btnToggleAutoplay</code></td>
 			<td>
@@ -295,7 +282,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>null</code></td>
 		</tr>
-	
 		<tr id="btnStartAutoplay">
 			<td class="option"><code>btnStartAutoplay</code></td>
 			<td>
@@ -307,7 +293,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>null</code></td>
 		</tr>
-	
 		<tr id="btnStopAutoplay">
 			<td class="option"><code>btnStopAutoplay</code></td>
 			<td>
@@ -319,7 +304,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>null</code></td>
 		</tr>
-	
 		<tr id="easing">
 			<td class="option"><code>easing</code></td>
 			<td>
@@ -332,7 +316,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>"swing"</code></td>
 		</tr>
-	
 		<tr id="clickToFocus">
 			<td class="option"><code>clickToFocus</code></td>
 			<td>
@@ -345,7 +328,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>true</code></td>
 		</tr>
-	
 		<tr id="clickToFocusCallback">
 			<td class="option"><code>clickToFocusCallback</code></td>
 			<td>
@@ -356,7 +338,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">function</td>
 			<td class="default-value"><code>function() {}</code></td>
 		</tr>
-	
 		<tr id="focusBearing">
 			<td class="option"><code>focusBearing</code></td>
 			<td>
@@ -368,7 +349,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>0.0</code></td>
 		</tr>
-	
 		<tr id="shape">
 			<td class="option"><code>shape</code></td>
 			<td>
@@ -381,7 +361,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>"lazySusan"</code></td>
 		</tr>
-	
 		<tr id="debug">
 			<td class="option"><code>debug</code></td>
 			<td>
@@ -392,7 +371,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>false</code></td>
 		</tr>
-	
 		<tr id="childSelector">
 			<td class="option"><code>childSelector</code></td>
 			<td>
@@ -404,7 +382,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>"li"</code></td>
 		</tr>
-	
 		<tr id="startingChild">
 			<td class="option"><code>startingChild</code></td>
 			<td>
@@ -416,7 +393,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>0</code></td>
 		</tr>
-	
 		<tr id="reflect">
 			<td class="option"><code>reflect</code></td>
 			<td>
@@ -429,7 +405,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>false</code></td>
 		</tr>
-	
 		<tr id="floatComparisonThreshold">
 			<td class="option"><code>floatComparisonThreshold</code></td>
 			<td>
@@ -440,7 +415,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">float</td>
 			<td class="default-value"><code>0.001</code></td>
 		</tr>
-	
 		<tr id="autoplay">
 			<td class="option"><code>autoplay</code></td>
 			<td>
@@ -452,7 +426,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>false</code></td>
 		</tr>
-	
 		<tr id="autoplayInitialDelay">
 			<td class="option"><code>autoplayInitialDelay</code><small>added in v2.4</small></td>
 			<td>
@@ -464,7 +437,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>0</code></td>
 		</tr>
-	
 		<tr id="autoplayDuration">
 			<td class="option"><code>autoplayDuration</code></td>
 			<td>
@@ -476,7 +448,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>1000</code></td>
 		</tr>
-	
 		<tr id="autoplayPauseOnHover">
 			<td class="option"><code>autoplayPauseOnHover</code></td>
 			<td>
@@ -487,7 +458,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>false</code></td>
 		</tr>
-	
 		<tr id="enableDrag">
 			<td class="option"><code>enableDrag</code></td>
 			<td>
@@ -502,7 +472,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>false</code></td>
 		</tr>
-	
 		<tr id="dropDuration">
 			<td class="option"><code>dropDuration</code></td>
 			<td>
@@ -513,7 +482,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>600</code></td>
 		</tr>
-	
 		<tr id="dropEasing">
 			<td class="option"><code>dropEasing</code></td>
 			<td>
@@ -527,7 +495,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>"swing"</code></td>
 		</tr>
-	
 		<tr id="dropAnimateTo">
 			<td class="option"><code>dropAnimateTo</code></td>
 			<td>
@@ -538,7 +505,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>"nearest"</code></td>
 		</tr>
-	
 		<tr id="dropCallback">
 			<td class="option"><code>dropCallback</code></td>
 			<td>
@@ -548,7 +514,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">function</td>
 			<td class="default-value"><code>function() {}</code></td>
 		</tr>
-	
 		<tr id="dragAxis">
 			<td class="option"><code>dragAxis</code></td>
 			<td>
@@ -558,7 +523,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">string</td>
 			<td class="default-value"><code>"x"</code></td>
 		</tr>
-	
 		<tr id="dragFactor">
 			<td class="option"><code>dragFactor</code></td>
 			<td>
@@ -569,7 +533,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">integer</td>
 			<td class="default-value"><code>4</code></td>
 		</tr>
-	
 		<tr id="triggerFocusEvents">
 			<td class="option"><code>triggerFocusEvents</code></td>
 			<td>
@@ -580,7 +543,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>true</code></td>
 		</tr>
-	
 		<tr id="triggerBlurEvents">
 			<td class="option"><code>triggerBlurEvents</code></td>
 			<td>
@@ -591,7 +553,6 @@ Roundabout comes with many settable configuration options that let you customize
 			<td class="data-type">boolean</td>
 			<td class="default-value"><code>true</code></td>
 		</tr>
-	
 		<tr id="responsive">
 			<td class="option"><code>responsive</code><small>added in v2.1</small></td>
 			<td>
