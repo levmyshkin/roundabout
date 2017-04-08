@@ -1,7 +1,5 @@
 # Roundabout
 
-**Note: Roundabout is no longer under active development. I've moved the documentation over here to support the exists plugin, but there are known issues and such that won't be fixed. Use at your own risk.**
-
 Roundabout is a jQuery plugin that easily converts unordered lists & other nested HTML structures into entertaining, interactive, turntable-like areas.
 
 It’s ready-to-go straight out of the box, but if you want to get crazy, Roundabout is highly-customizable with an extensive API that allows for some pretty amazing results.
