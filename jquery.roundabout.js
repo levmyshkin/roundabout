@@ -99,7 +99,7 @@
 		dragFactor: 4,
 		triggerFocusEvents: true,
 		triggerBlurEvents: true,
-		responsive: false
+		responsive: true
 	};
 
 	internalData = {
